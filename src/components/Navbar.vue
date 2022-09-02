@@ -16,7 +16,7 @@
             <b-navbar-nav class="ml-auto">
               <router-link class="nav-link" to="/">Home</router-link>
               <router-link class="nav-link" to="/products"
-                >Products</router-link
+                >Contact Us</router-link
               >
             </b-navbar-nav>
           </b-collapse>
